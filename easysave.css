@@ -1,0 +1,38 @@
+body{
+    
+}
+.opening_screen{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    overflow: hidden;
+}
+.sp_screen{
+    
+    margin: 0px;
+    padding: 0px;
+}
+.sp_title{
+    width: 80%;
+    height: fit-content;
+    text-align: center;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 4rem;
+    border-color: black;
+    border-left-style: solid;
+   
+
+}
+.sp_slogan{
+    width: 80%;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-left: 32%;
+    font-weight: 100;
+    margin-top: -20px;
+    
+}
